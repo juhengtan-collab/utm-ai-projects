@@ -1,6 +1,6 @@
 # UTM Artificial Intelligence - Python
 
-Student: Your Name  
+Student: QIN JUHENG
 University: Universiti Teknologi Malaysia  
 Program: Artificial Intelligence  
 Year: Year 1
